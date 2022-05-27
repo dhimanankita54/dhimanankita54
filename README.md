@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Mongodb, Express**
 
-- 📝 I regularly write articles on [https://medium.com/@dhimanankita54/coursera-clone-with-backend-80fe96e0176a](https://medium.com/@dhimanankita54/coursera-clone-with-backend-80fe96e0176a)
+- 📝 I write articles on [https://medium.com/@dhimanankita54/coursera-clone-with-backend-80fe96e0176a](https://medium.com/@dhimanankita54/coursera-clone-with-backend-80fe96e0176a)
 - See my work at https://ankita-dhiman-portfolio.netlify.app
 
 - 💬 Ask me about **React, Javascript**
