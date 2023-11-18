@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ankita Dhiman</h1>
 <h3 align="center">A passionate frontend developer from India exploring technologies</h3>
 
-- 🌱 I have been working on **HTML, CSS, JavaScript,React, Mongodb, Express, Nodejs**
+- 🌱 I have been working on **HTML, CSS, JavaScript, React, Mongodb, Express, Nodejs**
 
 - 📝 I write articles on [https://medium.com/@dhimanankita54/coursera-clone-with-backend-80fe96e0176a](https://medium.com/@dhimanankita54/coursera-clone-with-backend-80fe96e0176a)
 - See my work at https://ankita-dhiman-portfolio.netlify.app
