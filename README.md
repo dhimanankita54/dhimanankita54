@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dhimanankita54@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pcCTE5aqJP1aKAln5vfImVX6CfJ1cV5O/view?usp=sharing](https://drive.google.com/file/d/1pcCTE5aqJP1aKAln5vfImVX6CfJ1cV5O/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1pcCTE5aqJP1aKAln5vfImVX6CfJ1cV5O/view?usp=sharing](https://drive.google.com/file/d/1BnUwI5NtRTnNmfMym2yrDO9_VEfYUcu4/view?usp=drive_link)]([https://drive.google.com/file/d/1pcCTE5aqJP1aKAln5vfImVX6CfJ1cV5O/view?usp=sharing](https://drive.google.com/file/d/1BnUwI5NtRTnNmfMym2yrDO9_VEfYUcu4/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
