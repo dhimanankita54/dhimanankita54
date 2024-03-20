@@ -4,7 +4,7 @@
 
 - 🌱 I have been working on **HTML, CSS, JavaScript, React, Mongodb, Express, Nodejs**
 
-- 📝 I write articles on [https://medium.com/@dhimanankita54/coursera-clone-with-backend-80fe96e0176a](https://medium.com/@dhimanankita54/coursera-clone-with-backend-80fe96e0176a)
+- 📝 I write articles on https://medium.com/@dhimanankita54
 - See my work at https://ankitadhiman.framer.website
 
 - 💬 Ask me about **React, Javascript**
